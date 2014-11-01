@@ -13,9 +13,7 @@
 , "indent": 2
 , "jquery": true
 , "latedef": false
-, "laxbreak": true
-, "laxcomma": true
-, "maxcomplexity": 6
+, "maxcomplexity": 9
 , "maxdepth": 4
 , "maxstatements": 25
 , "maxlen": 120
