@@ -1,7 +1,7 @@
 {
   "name": "sails-emberjs-model-converter",
   "description": "Converts sails.js models to ember.js model structure",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "dependencies": {},
   "scripts": {
